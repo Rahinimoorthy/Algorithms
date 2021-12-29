@@ -1,0 +1,15 @@
+C:\PS Rahini\Algorithms\Rotate\bin\Debug\net6.0\Rotate.exe
+C:\PS Rahini\Algorithms\Rotate\bin\Debug\net6.0\Rotate.deps.json
+C:\PS Rahini\Algorithms\Rotate\bin\Debug\net6.0\Rotate.runtimeconfig.json
+C:\PS Rahini\Algorithms\Rotate\bin\Debug\net6.0\Rotate.dll
+C:\PS Rahini\Algorithms\Rotate\bin\Debug\net6.0\ref\Rotate.dll
+C:\PS Rahini\Algorithms\Rotate\bin\Debug\net6.0\Rotate.pdb
+C:\PS Rahini\Algorithms\Rotate\obj\Debug\net6.0\Rotate.csproj.AssemblyReference.cache
+C:\PS Rahini\Algorithms\Rotate\obj\Debug\net6.0\Rotate.GeneratedMSBuildEditorConfig.editorconfig
+C:\PS Rahini\Algorithms\Rotate\obj\Debug\net6.0\Rotate.AssemblyInfoInputs.cache
+C:\PS Rahini\Algorithms\Rotate\obj\Debug\net6.0\Rotate.AssemblyInfo.cs
+C:\PS Rahini\Algorithms\Rotate\obj\Debug\net6.0\Rotate.csproj.CoreCompileInputs.cache
+C:\PS Rahini\Algorithms\Rotate\obj\Debug\net6.0\Rotate.dll
+C:\PS Rahini\Algorithms\Rotate\obj\Debug\net6.0\ref\Rotate.dll
+C:\PS Rahini\Algorithms\Rotate\obj\Debug\net6.0\Rotate.pdb
+C:\PS Rahini\Algorithms\Rotate\obj\Debug\net6.0\Rotate.genruntimeconfig.cache

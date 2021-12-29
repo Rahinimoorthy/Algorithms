@@ -1,0 +1,15 @@
+C:\PS Rahini\Algorithms\Reverse\bin\Debug\net6.0\Reverse.exe
+C:\PS Rahini\Algorithms\Reverse\bin\Debug\net6.0\Reverse.deps.json
+C:\PS Rahini\Algorithms\Reverse\bin\Debug\net6.0\Reverse.runtimeconfig.json
+C:\PS Rahini\Algorithms\Reverse\bin\Debug\net6.0\Reverse.dll
+C:\PS Rahini\Algorithms\Reverse\bin\Debug\net6.0\ref\Reverse.dll
+C:\PS Rahini\Algorithms\Reverse\bin\Debug\net6.0\Reverse.pdb
+C:\PS Rahini\Algorithms\Reverse\obj\Debug\net6.0\Reverse.csproj.AssemblyReference.cache
+C:\PS Rahini\Algorithms\Reverse\obj\Debug\net6.0\Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\PS Rahini\Algorithms\Reverse\obj\Debug\net6.0\Reverse.AssemblyInfoInputs.cache
+C:\PS Rahini\Algorithms\Reverse\obj\Debug\net6.0\Reverse.AssemblyInfo.cs
+C:\PS Rahini\Algorithms\Reverse\obj\Debug\net6.0\Reverse.csproj.CoreCompileInputs.cache
+C:\PS Rahini\Algorithms\Reverse\obj\Debug\net6.0\Reverse.dll
+C:\PS Rahini\Algorithms\Reverse\obj\Debug\net6.0\ref\Reverse.dll
+C:\PS Rahini\Algorithms\Reverse\obj\Debug\net6.0\Reverse.pdb
+C:\PS Rahini\Algorithms\Reverse\obj\Debug\net6.0\Reverse.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\PS Rahini\Algorithms\Delete_kth_node\bin\Debug\net6.0\Delete_kth_node.exe
+C:\PS Rahini\Algorithms\Delete_kth_node\bin\Debug\net6.0\Delete_kth_node.deps.json
+C:\PS Rahini\Algorithms\Delete_kth_node\bin\Debug\net6.0\Delete_kth_node.runtimeconfig.json
+C:\PS Rahini\Algorithms\Delete_kth_node\bin\Debug\net6.0\Delete_kth_node.dll
+C:\PS Rahini\Algorithms\Delete_kth_node\bin\Debug\net6.0\ref\Delete_kth_node.dll
+C:\PS Rahini\Algorithms\Delete_kth_node\bin\Debug\net6.0\Delete_kth_node.pdb
+C:\PS Rahini\Algorithms\Delete_kth_node\obj\Debug\net6.0\Delete_kth_node.csproj.AssemblyReference.cache
+C:\PS Rahini\Algorithms\Delete_kth_node\obj\Debug\net6.0\Delete_kth_node.GeneratedMSBuildEditorConfig.editorconfig
+C:\PS Rahini\Algorithms\Delete_kth_node\obj\Debug\net6.0\Delete_kth_node.AssemblyInfoInputs.cache
+C:\PS Rahini\Algorithms\Delete_kth_node\obj\Debug\net6.0\Delete_kth_node.AssemblyInfo.cs
+C:\PS Rahini\Algorithms\Delete_kth_node\obj\Debug\net6.0\Delete_kth_node.csproj.CoreCompileInputs.cache
+C:\PS Rahini\Algorithms\Delete_kth_node\obj\Debug\net6.0\Delete_kth_node.dll
+C:\PS Rahini\Algorithms\Delete_kth_node\obj\Debug\net6.0\ref\Delete_kth_node.dll
+C:\PS Rahini\Algorithms\Delete_kth_node\obj\Debug\net6.0\Delete_kth_node.pdb
+C:\PS Rahini\Algorithms\Delete_kth_node\obj\Debug\net6.0\Delete_kth_node.genruntimeconfig.cache
